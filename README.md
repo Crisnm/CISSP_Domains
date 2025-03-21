@@ -1,15 +1,9 @@
 # CISSP_Domains
 My notes on the eight domains covered by the Certified Information Systems Security Professional (CISSP) certification.
 
-:] Security and Risk Management
-:] Asset Security, Security Architecture and Engineering
-:] Communications and Network Security
-:] Identity and Access Management
-:] Security Assessment and Testing
-:] Security Operations
-:] Software Development Security
+Security and Risk Management, Asset Security, Security Architecture and Engineering, Communications and Network Security, Identity and Access Management, Security Assessment and Testing, Security Operations, and Software Development Security.
 
-Here’s a closer look at each domain:
+:] Here's a more detailed breakdown of each domain:
 
 # Security and Risk Management:
 This domain focuses on establishing security goals, identifying and mitigating risks, ensuring regulatory compliance, and planning for business continuity.
